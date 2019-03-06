@@ -13,6 +13,7 @@ Endobronchial biopsy and brush phenotypic data:  GSE109743_SAMPLES.txt
 NTCU mouse model data:  GSE111091_exp_count.txt
 NTCU mouse model phenotypic data:  GSE111091_SAMPLES.txt
 TCGA SCC data:  TCGA_SCC_cpm.txt (Campbell et al. Nature Genetics 2016, Log2 plus 1 TPM)
+Genes used to predict genomic smoking status:  smoking_signature_genes.txt (derived from GSE7895)
 
 R scripts:
 processData_and_runWGCNA.R (processes data and compute WGCNA modules for each dataset)
