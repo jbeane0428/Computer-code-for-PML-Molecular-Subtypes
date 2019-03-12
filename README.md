@@ -1,5 +1,5 @@
 # Computer-code-for-PML-Molecular-Subtypes
-R scripts and input data to produce results in the manuscript:
+R scripts to reproduce results in the following manuscript:
 
 Molecular subtyping reveals immune alterations associated with progression of bronchial premalignant lesions.
 
