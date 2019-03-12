@@ -117,7 +117,7 @@ for(i in 1:length(pl.lab)){
         pl.lab[i]<-strtrim(gsub("^TCGA-.{2}-.{4}-.{3}-.{3}-","",pl.lab[i],perl=T),4)
 }
 
-tcga.scc.poorquality.samples<-read.table(file="inputData/TCGA_SCC_PoorQuality_Samples.txt")
+tcga.scc.poorquality.samples<-read.table(file="inputData/TCGA_LUSC_PoorQuality_Samples.txt")
 tcga.scc.goodsample.ind<-match(setdiff(colnames(tcga.scc.data),tcga.scc.poorquality.samples[,1]),colnames(tcga.scc.data))
 
 #Compute residual gene expression values adjusting for plate
