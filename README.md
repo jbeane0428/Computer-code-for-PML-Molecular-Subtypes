@@ -8,8 +8,8 @@ Authors:  Jennifer Beane*, Sarah A. Mazzilli, Joshua D. Campbell, Grant Duclos, 
 Nature Communications 2019
 
 Input data:
-Endobronchial biopsy and brush data:  GSE109743_exp_count.txt\n
-Endobronchial biopsy and brush phenotypic data:  GSE109743_SAMPLES.txt\n
+Endobronchial biopsy and brush data:  GSE109743_exp_count.txt
+Endobronchial biopsy and brush phenotypic data:  GSE109743_SAMPLES.txt
 NTCU mouse model data:  GSE111091_exp_count.txt
 NTCU mouse model phenotypic data:  GSE111091_SAMPLES.txt
 TCGA SCC data:  TCGA_SCC_cpm.txt (Campbell et al. Nature Genetics 2016, Log2 plus 1 TPM)
